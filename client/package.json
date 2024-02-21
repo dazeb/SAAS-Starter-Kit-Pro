@@ -16,7 +16,7 @@
     "@stripe/react-stripe-js": "^1.4.1",
     "@stripe/stripe-js": "^1.17.1",
     "antd": "^4.16.13",
-    "axios": "^0.21.4",
+    "axios": "^0.28.0",
     "dotenv": "^10.0.0",
     "firebase": "^8.3.0",
     "formik": "^2.2.6",
